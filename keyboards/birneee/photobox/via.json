@@ -1,0 +1,17 @@
+{
+    "name": "PhotoboxKeys",
+    "vendorId": "FEED",
+    "productId": "6465",
+    "matrix": {
+        "rows": 2,
+        "cols": 2
+    },
+    "layouts": {
+        "keymap": [
+            [
+                {"c":"#ffe500"},"0,0",
+                {"c":"#ff0000"},"1,1"
+            ]
+        ]
+    }
+}
